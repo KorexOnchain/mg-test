@@ -1,0 +1,4 @@
+queue_rules:
+  - name: test
+    queue_conditions:
+      - number = 0
